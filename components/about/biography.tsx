@@ -49,7 +49,7 @@ export default function Biography() {
           <div className="order-1 lg:order-2 relative" data-aos="fade-left">
             <div className="relative rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/paras2.png"
+                src="/parasImage.jpg"
                 alt="Professional portrait"
                 width={600}
                 height={800}
